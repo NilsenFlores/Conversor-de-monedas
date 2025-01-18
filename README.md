@@ -38,6 +38,8 @@ Se utiliza la librería `Gson` para convertir la respuesta JSON de la API a un o
 5. El programa recibe la respuesta JSON de la API y extrae los datos relevantes.
 6. Muestra el resultado al usuario.
 7. El usuario puede decidir si hacer otra conversión o salir.
+
+   
 ![image](https://github.com/user-attachments/assets/e946bc9b-4090-4062-81fe-76eac7c6d1e6)
 ![image](https://github.com/user-attachments/assets/d3074af3-1fea-4855-ba02-b5f0c0c0c933)
 
